@@ -26,7 +26,7 @@
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#"><i class="fas fa-book-open"></i> Recent Books</a>
+        <a class="nav-link" href="#"><i class="fas fa-book-open"></i> Best selling Books</a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="#"><i class="fas fa-book-reader"></i> New Books</a>
