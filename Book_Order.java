@@ -16,7 +16,7 @@ public class Book_Order {
 
 	private String orderStatus;
 
-	private String isbn;
+	
 
 	public Book_Order() {
 		super();
@@ -111,13 +111,7 @@ public class Book_Order {
 		this.paymentType = paymentType;
 	}
 
-	public String getIsbn() {
-		return isbn;
-	}
 
-	public void setIsbn(String isbn) {
-		this.isbn = isbn;
-	}
 
 	@Override
 	public String toString() {
